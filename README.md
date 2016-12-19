@@ -17,3 +17,7 @@ cd otp_src_19.2
 ```bash
 ./configure && make && sudo make install
 ```
++ Verify
+```bash
+erl
+```
