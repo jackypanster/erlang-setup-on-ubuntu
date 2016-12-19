@@ -3,7 +3,7 @@
 + Install dependencies
 
 ```bash
-sudo apt-get install build-essential libncurses5-dev openssl libssl-dev fop xsltproc unixodbc-dev
+sudo apt-get install -y build-essential libncurses5-dev openssl libssl-dev fop xsltproc unixodbc-dev
 ```
 
 + Download source code of erlang
