@@ -8,7 +8,7 @@ sudo apt-get install -y build-essential libncurses5-dev openssl libssl-dev fop x
 
 + Download source code of erlang
 ```bash
-http://erlang.org/download/otp_src_19.2.tar.gz
+wget http://erlang.org/download/otp_src_19.2.tar.gz
 tar zxvf otp_src_19.2.tar.gz
 cd otp_src_19.2
 ```
